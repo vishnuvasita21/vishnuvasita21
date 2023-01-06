@@ -1,7 +1,7 @@
 <!-- Banner-->
 ![Screenshot](uchiha_itachi_wallpaper_by_mrbarclonista_d5pasuq-fullview.jpg)
 
-
+<img src="uchiha_itachi_wallpaper_by_mrbarclonista_d5pasuq-fullview.jpg" width="128"/>
 ##
 
 
