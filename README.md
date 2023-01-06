@@ -1,4 +1,20 @@
-# 💫 About Me:
+<!-- Banner-->
+
+![Banner](https://user-images.githubusercontent.com/90595158/206069128-50614de1-6ac0-40ac-9b0c-395281c1172d.png)
+
+<p align="center">
+I'm a 2nd-year student at José Simeón Cañas Central American University. My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
+</p>
+
+##
+
+<br>
+<!---
+- Web illustrations by Storyset ( https://storyset.com/web )
+--->
+<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
+
+<br>
 🔭 I’m currently working on MNV-HR Management<br>🌱 I’m currently learning VueJs and NodeJs<br>
 
 
