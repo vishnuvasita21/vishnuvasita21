@@ -1,10 +1,6 @@
 <!-- Banner-->
+![alt text](https://github.com/vishnumedianv/vishnumedianv/blob/main/uchiha_itachi_wallpaper_by_mrbarclonista_d5pasuq-fullview.jpg)
 
-![Banner](https://github.com/vishnumedianv/vishnumedianv/blob/main/uchiha_itachi_wallpaper_by_mrbarclonista_d5pasuq-fullview.jpg)
-
-<p align="center">
-I'm a 2nd-year student at José Simeón Cañas Central American University. My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
-</p>
 
 ##
 
