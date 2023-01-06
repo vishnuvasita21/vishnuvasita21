@@ -1,4 +1,6 @@
 <!-- Banner-->
+![uchiha_itachi_wallpaper_by_mrbarclonista_d5pasuq-fullview](https://user-images.githubusercontent.com/118429816/210944311-4178f702-dbfa-41bf-8835-10964bc619bd.jpg)
+
 
 🔭 I’m currently working on MNV-HR Management<br>🌱 I’m currently learning VueJs and NodeJs<br>🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/vishnumedianv)!.
 
