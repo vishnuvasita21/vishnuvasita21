@@ -39,7 +39,7 @@
   
 [![Gmail: Vishnu Vasita](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vishnuvasita99@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/vishnumedianv)&nbsp;
-[[![CodePen](https://codepen.io/melvinhdev)](https://codepen.io/vishnumedianv)](https://codepen.io/vishnumedianv)&nbsp;
+[![CodePen](https://codepen.io/vishnumedianv)](https://codepen.io/vishnumedianv)&nbsp;
 <!-- [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
 [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
  -->
