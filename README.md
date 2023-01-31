@@ -76,8 +76,6 @@
 </td></tr></table>  
 
 <br/>  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishnumedianv&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## Goals
