@@ -76,6 +76,8 @@
 </td></tr></table>  
 
 <br/>  
+[![](https://visitcount.itsvg.in/api?id=vishnumedianv&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<br/>
 
 
 ## Goals
