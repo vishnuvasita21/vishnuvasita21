@@ -76,8 +76,6 @@
 </td></tr></table>  
 
 <br/>  
-[![](https://visitcount.itsvg.in/api?id=vishnumedianv&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
-<br/>
 
 
 ## Goals
@@ -100,4 +98,7 @@
 [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
  -->
 </div>
+
+
+[![](https://visitcount.itsvg.in/api?id=vishnumedianv&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
